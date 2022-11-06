@@ -43,4 +43,28 @@ li a{
     color: blue;
     font-size: 50px;
     font-weight: 800;
-     }
+}
+
+.koleksi{
+    display: flex;
+    justify-content: center;
+
+}
+.koleksi img{
+    width: 300px;
+}
+
+.promo{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+.promo li{
+    list-style: none;
+    display: inline;
+}
+li a {
+    color: blue;
+}
+
